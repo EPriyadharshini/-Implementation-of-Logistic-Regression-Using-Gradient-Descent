@@ -19,8 +19,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Santhosh P
-RegisterNumber: 212224220088
+Developed by: Priyadharshini E
+RegisterNumber: 212223230159
 */
 import pandas as pd
 import numpy as np
@@ -111,13 +111,15 @@ print(y_prednew)
 
 ![Screenshot 2025-03-28 054133](https://github.com/user-attachments/assets/d03b3b3f-f953-48ae-8b52-4b41d76bfd08)
 
-![Screenshot 2025-03-28 054152](https://github.com/user-attachments/assets/8e64ec14-f99f-48c9-944c-feeea32ba173)
+<img width="518" height="116" alt="image" src="https://github.com/user-attachments/assets/02ee05b2-f574-406b-823e-062632d3ed82" />
+
+<img width="669" height="271" alt="image" src="https://github.com/user-attachments/assets/437472c2-0fb5-4dae-bb28-3a1ee0d2985f" />
+
 
 ![Screenshot 2025-03-28 054213](https://github.com/user-attachments/assets/ee0fd264-a705-4af2-91fc-fd2258fafb98)
 
-![Screenshot 2025-03-28 054230](https://github.com/user-attachments/assets/6fa90528-b035-44df-a2c1-d0632ffa8e2a)
+<img width="627" height="237" alt="image" src="https://github.com/user-attachments/assets/74409049-1b56-4ff6-bc8c-f8429b8037a5" />
 
-![Screenshot 2025-03-28 054249](https://github.com/user-attachments/assets/fb81a7d9-de98-4ea4-bd3d-6845540ab08b)
 
 
 ## Result:
